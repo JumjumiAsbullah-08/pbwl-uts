@@ -1,0 +1,13 @@
+{
+    "name": "uts/uts",
+    "description": "ujian tengah semester",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Jumjumi Asbullah"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "5.0.1"
+    }
+}
